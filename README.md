@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" alt="Mukesh Kumar Profile Picture" style="border-radius: 50%; border: 3px solid #00c3ff;"/>
 </p>
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm Rachns Devi</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm Rachna Devi</h1>
 <h3 align="center">🚀 Passionate DevOps & Cloud Engineer | Open Source Enthusiast ☁</h3>
 
 <p align="center">
